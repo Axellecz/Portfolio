@@ -1,0 +1,7 @@
+title: NSFW Art Portfolio
+description: >- # this means to ignore newlines until "baseurl:"
+  A portfolio to showcase my NSFW art.
+theme: minima
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+github_username: yourusername
